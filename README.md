@@ -49,11 +49,11 @@ Run  $ npm install  to install express and uuid.
 > Landing Page
 
 
-![App Image](/public/assets/notebook.png)
+![App Image](/public/assets/images/notebook.png)
 > Notebook
 
 
-![App Image](/public/assets/savednote.png)
+![App Image](/public/assets/images/savednote.png)
 > Saved Notes
 
 
