@@ -60,3 +60,5 @@ nb.delete('/:note_id', (req, res) => {
         res.json(`Item ${noteId} has been deleted 🗑️`);
       });
   });
+
+  module.exports = nb;
